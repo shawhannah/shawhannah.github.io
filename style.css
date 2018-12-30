@@ -1,0 +1,101 @@
+img {
+  float: left;
+  height: 401px;
+  width: 300px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+h1 {
+  margin-left: 220px;
+  font-weight: 300;
+  font-size: xx-large;
+  margin-top: 15px;
+}
+
+.navbar-brand {
+  margin-left: 200px;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.facts {
+  font-weight: bold;
+  margin-left: 25px;
+  font-size: larger;
+}
+
+.last-link {
+  margin-right: 220px;
+}
+
+.jumbotron {
+  background-color: #d1bcbc !important;
+}
+
+.display-4 {
+  letter-spacing: 4px !important;
+}
+
+body {
+  background-image: url(hip-square.png);
+  margin-bottom: 10px;
+}
+
+.bg-light {
+  background-color: #d1bcbc !important;
+}
+
+form {
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+.btn-form {
+  width: 618px;
+  margin: auto;
+  background-color: black !important;
+  border-color: #d1bcbc !important;
+  text-align: center;
+  color: #d1bcbc;
+}
+
+.info-btn {
+  background-color: black !important;
+  border-color: black !important;
+  color: #d1bcbc !important;
+  float: right;
+  margin: 3px;
+}
+
+.card-edu {
+  margin-left: 220px;
+  width: 400px;
+  margin-bottom: 35px;
+}
+
+.card-work {
+  width: 400px;
+  margin-right: 150px;
+  margin-bottom: 35px;
+}
+
+.card-free {
+  width: 400px;
+  margin-left: 220px;
+}
+
+.card-web {
+  width: 400px;
+  margin-right: 150px;
+}
+
+.btn-portfolio {
+  background-color: #d1bcbc !important;
+  border-color: #d1bcbc !important;
+  width: 175px;
+}
