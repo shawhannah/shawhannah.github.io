@@ -41,6 +41,10 @@ h1 {
   letter-spacing: 4px !important;
 }
 
+h2 {
+  align-content: center !important;
+}
+
 body {
   background-image: url(hip-square.png);
   margin-bottom: 10px;
