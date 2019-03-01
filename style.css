@@ -1,8 +1,7 @@
-img {
+.pic1 {
   float: left;
-  height: 401px;
-  width: 300px;
-  padding-right: 5px;
+  height: 200px;
+  padding-right: 2px;
   padding-bottom: 5px;
 }
 
@@ -89,6 +88,12 @@ form {
 }
 
 .card-free {
+  width: 400px;
+  margin-left: 220px;
+  margin-bottom: 35px;
+}
+
+.card-choo {
   width: 400px;
   margin-left: 220px;
 }
